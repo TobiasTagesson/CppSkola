@@ -1,0 +1,14 @@
+{
+    "cmake.configureOnOpen": true,
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/tobiastagesson/Development/C++ Skola/HelloWorld",
+            "binaryPath": "/Users/tobiastagesson/Development/C++ Skola/HelloWorld/main.exe",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
