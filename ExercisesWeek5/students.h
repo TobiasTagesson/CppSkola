@@ -35,7 +35,6 @@ public:
     double amount;
     void add(double amount);
     transactionType type;
-    void withdrawal(int amount);
     Transaction(double amount, transactionType type);
 
     
