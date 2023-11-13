@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\root\\source\\CppSkola\\ExercisesWeek5",
+            "binaryPath": "c:\\Users\\root\\source\\CppSkola\\ExercisesWeek5\\program",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
